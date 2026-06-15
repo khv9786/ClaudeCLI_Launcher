@@ -1,0 +1,4 @@
+build_tmp/
+__pycache__/
+*.spec
+claude_launcher_config.json
